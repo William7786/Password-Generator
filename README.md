@@ -12,4 +12,5 @@ Had to remove some of the prompts to limit confusion.
 Deleted unnessasary code.  
 Added two new functions.   
 Working on functionality of Uppercase func.
+Added new functions after I got the initial function to log on the console.
 
