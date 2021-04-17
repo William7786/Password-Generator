@@ -9,4 +9,6 @@ Then I added the variable Characters and added it to my for statement.
 I also had to add value to the password variable to fix the issue I had earlier with the password display box.
 I created a New alert box and all the prompts I need.
 Had to remove some of the prompts to limit confusion.  
+Deleted unnessasary code.  
+Added two new functions.   
 
