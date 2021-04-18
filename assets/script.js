@@ -5,7 +5,7 @@ var Lowercase = "abcdefghijklmnopqrstuvwxyz";
 var Numbers = "0123456789";
 var Special = "!@#$%^&*()[]{}<>;:-_=+~`";
 var Length = ""
-var password = function generatePassword (Uppercase, Lowercase, Numbers, Special){}
+var password = function generatePassword (Uppercase, Lowercase, Numbers, Special){console.log(hello)}
 
 
 //ALERT AND PROMPT AREA
@@ -61,28 +61,4 @@ if (Special === "n"){console.log("The user dosnt want special characters"); answ
      var Special= true;
      generateEl.addEventListener("click", function(){
        ResultEl.innerText = GeneratePassword(answer1, answer2, answer3, answer4);
-     });
-     
-   
- 
-// generateBtn.onclick=function generate() {
-//   var characters ="";
-//   var characterslength="15";
-//   if (answer1 = true){Uppercase += characters};
-//   if (answer1 = false){};
-//   if (answer2 = true){Lowercase += characters};
-//   if (answer2 = false){};
-//   if (answer3 = true){Numbers += characters};
-//   if (answer3 = false){};
-//   if (answer4 = true){Special += characters};
-//   if (answer4 = false){};
- 
-//    var password= "Password: "
-//    var passwordLength="15"
-//    password = writePassword(characters);
-//    for (var i = 0; i< passwordLength; i++) {
-//      var randomNum = Math.floor(Math.random() * characterslength);
-//      password += characters.substring(randomNum, randomNum+1, randomNum+2)
-//    }
-//  document.getElementById("password").value = password;
-//  generateBtn.addEventlistener("click", writePassword) 
+     });}
