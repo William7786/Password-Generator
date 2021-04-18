@@ -21,4 +21,7 @@ Commented out confusing code.
 Reorganized the working code.
 Added new variable for password.
 Undid the comment on length 
+<<<<<<< HEAD
 
+=======
+>>>>>>> e43a94d50f8c7770902f3e8759783c89a5b7f6f3
