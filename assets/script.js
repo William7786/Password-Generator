@@ -79,10 +79,6 @@
          console.log("false")
          
        }
-     
- 
-         
-
     } 
     var generateBtn = document.querySelector("#generate");
 
