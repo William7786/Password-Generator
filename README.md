@@ -13,4 +13,6 @@ Deleted unnessasary code.
 Added two new functions.   
 Working on functionality of Uppercase func.
 Added new functions after I got the initial function to log on the console.
+Decided to delete some functions to simplify generator and avoid bugs.  
+All prompts now log on the console.
 
