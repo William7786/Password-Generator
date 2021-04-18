@@ -16,4 +16,5 @@ Added new functions after I got the initial function to log on the console.
 Decided to delete some functions to simplify generator and avoid bugs.  
 All prompts now log on the console.
 Added new generate buttons elements.  
+adding new functions with if statement.
 
