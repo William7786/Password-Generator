@@ -24,3 +24,5 @@ Undid the comment on length
 Put new if statements for new alerts.
 Added Length If statements. 
 All if statements console log.
+Implemented code from one of my previous commits.
+//problems having trouble linking if true to password generator
