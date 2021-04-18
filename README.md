@@ -17,4 +17,8 @@ Decided to delete some functions to simplify generator and avoid bugs.
 All prompts now log on the console.
 Added new generate buttons elements.  
 adding new functions with if statement.
+Commented out confusing code.
+Reorganized the working code.
+Added new variable for password.
+Undid the comment on length 
 
