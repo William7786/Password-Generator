@@ -26,3 +26,5 @@ Added Length If statements.
 All if statements console log.
 Implemented code from one of my previous commits.
 //problems having trouble linking if true to password generator
+Added Screenshot to readme.
+![Password-Generator](https://user-images.githubusercontent.com/80493413/115318633-1b261880-a14c-11eb-9d53-364419e27747.png)
